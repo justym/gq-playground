@@ -1,4 +1,4 @@
-module github.com/justym/gq-playground
+module github.com/justym/gq-playground/github-client
 
 go 1.14
 

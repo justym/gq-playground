@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/justym/gq-playground/errors"
-	"github.com/justym/gq-playground/model"
-	"github.com/justym/gq-playground/service"
+	"github.com/justym/gq-playground/github-client/errors"
+	"github.com/justym/gq-playground/github-client/model"
+	"github.com/justym/gq-playground/github-client/service"
 )
 
 const endpoint = "https://api.github.com/graphql"
