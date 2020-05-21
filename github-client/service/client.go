@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/justym/gq-playground/config"
-	"github.com/justym/gq-playground/model"
+	"github.com/justym/gq-playground/github-client/config"
+	"github.com/justym/gq-playground/github-client/model"
 	"github.com/machinebox/graphql"
 )
 
